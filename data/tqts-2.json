@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "tqts",
+  "address": "0x5Ac56257422bF362cec13a4367F86dd0a340f79a",
+  "risk": "G",
+  "title": "Redundant check",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/2"
+}
