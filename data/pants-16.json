@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "pants",
+  "address": "0xdf8E030c3BE481be8aAd7D40F34A09524269266A",
+  "risk": "2",
+  "title": "Line 86 0xA5407eAE9Ba41422680e2e00537571bcC53efBfD curve address is hardcoded",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/16"
+}
