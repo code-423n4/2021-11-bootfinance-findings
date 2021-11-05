@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "ye0lde",
+  "address": "0x81D4cf8A3892557e4a1571e97b88f0351eF0dcFD",
+  "risk": "1",
+  "title": "MAX_SWAP_FEE, MAX_ADMIN_FEE, MAX_WITHDRAW_FEE used inconsistently",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/19"
+}
