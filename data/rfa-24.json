@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "rfa",
+  "address": "0x95687C27DcE4D413a91A0E1fd0478F4751da8730",
+  "risk": "G",
+  "title": "gas optimization by removing msg.sender check",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/24"
+}
