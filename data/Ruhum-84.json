@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "Ruhum",
+  "address": "0xC3e61F4ef0a95E616F75f94D5b6A358bD9DC18ac",
+  "risk": "G",
+  "title": "Removing redundant require() can save gas",
+  "issueId": 84,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/84"
+}
