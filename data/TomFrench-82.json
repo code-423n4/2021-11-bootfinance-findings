@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "TomFrench",
+  "address": "0x60959ed8307ee2b0d04306f6b319aeee8864f1ee",
+  "risk": "1",
+  "title": "Vesting contract locks tokens for less time than expected",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/82"
+}
