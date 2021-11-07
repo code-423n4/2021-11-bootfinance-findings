@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "Reigada",
+  "address": "0x70eC7d795dB10c5c27d07c926fD0e0A2BB9bF77B",
+  "risk": "G",
+  "title": "Use of SafeMath with pragma ^0.8.0",
+  "issueId": 113,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/113"
+}
