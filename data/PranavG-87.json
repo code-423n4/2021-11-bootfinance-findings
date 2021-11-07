@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "PranavG",
+  "address": "0xFcBA1fEad1fab64228ae26dd3049fd6685a00030",
+  "risk": "G",
+  "title": "State Variables could be declared immutable",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/87"
+}
