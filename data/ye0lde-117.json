@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "ye0lde",
+  "address": "0x81D4cf8A3892557e4a1571e97b88f0351eF0dcFD",
+  "risk": "G",
+  "title": "Cache Reference To State Variables \"currentDay, currentEra, emission\" in _updateEmission (PublicSale.sol)",
+  "issueId": 117,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/117"
+}
