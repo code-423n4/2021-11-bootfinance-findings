@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "Overwrite benRevocable",
+  "issueId": 132,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/132"
+}
