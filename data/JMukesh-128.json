@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "1",
+  "title": "No event was emitted while setting fees and admin_fees in constructor",
+  "issueId": 128,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/128"
+}
