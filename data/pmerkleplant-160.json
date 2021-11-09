@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "pmerkleplant",
+  "address": "0x7125412Fc011D74C26E3CA768aB6224643702313",
+  "risk": "G",
+  "title": "Variables should be marked as `immutable`, if possible",
+  "issueId": 160,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/160"
+}
