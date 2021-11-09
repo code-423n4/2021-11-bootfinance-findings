@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "loop",
+  "address": "0xe88cAc4e10C4D316E0d52B82dd54f26ade3f0Bb2",
+  "risk": "G",
+  "title": "safeERC20 library imported but not used",
+  "issueId": 154,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/154"
+}
