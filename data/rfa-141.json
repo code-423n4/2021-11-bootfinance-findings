@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "rfa",
+  "address": "0x95687C27DcE4D413a91A0E1fd0478F4751da8730",
+  "risk": "1",
+  "title": "Missing check on tokenindexfrom and tokenindexto, in the swap function",
+  "issueId": 141,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/141"
+}
