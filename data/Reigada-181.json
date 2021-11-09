@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "Reigada",
+  "address": "0x70eC7d795dB10c5c27d07c926fD0e0A2BB9bF77B",
+  "risk": "G",
+  "title": "SafeMath import is not needed in the library MathUtils",
+  "issueId": 181,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/181"
+}
