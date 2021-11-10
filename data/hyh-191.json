@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "G",
+  "title": "Multiple double storage reading _xp(self) function calls",
+  "issueId": 191,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/191"
+}
