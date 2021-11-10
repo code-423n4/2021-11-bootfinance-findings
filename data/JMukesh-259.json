@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "JMukesh",
+  "address": "0x70aF29f754988473fcAbA6E01AbfbafF871046d1",
+  "risk": "G",
+  "title": "require() that can be removed",
+  "issueId": 259,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/259"
+}
