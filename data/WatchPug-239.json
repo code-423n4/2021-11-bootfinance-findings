@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "`_vestLock` contract is not approved to transfer `mainToken` from `PublicSale.sol` contract",
+  "issueId": 239,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/239"
+}
