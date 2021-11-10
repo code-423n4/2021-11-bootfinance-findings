@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "elprofesor",
+  "address": "0xDA3Cf9e341A4C7ecf41070b074EaBDC5D433f159",
+  "risk": "2",
+  "title": "Main Swap.sol does not implement transfer-accept ownership pattern",
+  "issueId": 289,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/289"
+}
