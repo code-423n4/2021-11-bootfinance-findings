@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "gzeon",
+  "address": "0x945D28dF9779795BDab5BC6FDD9f36c0Ef1F7190",
+  "risk": "G",
+  "title": "Gas Optimization: Unnecessary require statement",
+  "issueId": 265,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/265"
+}
