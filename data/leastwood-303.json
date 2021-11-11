@@ -1,0 +1,9 @@
+{
+  "contest": "Boot Finance contest",
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "2",
+  "title": "Users Can Frontrun `revoke()` By Calling `vest()`",
+  "issueId": 303,
+  "issueUrl": "https://github.com/code-423n4/2021-11-bootfinance-findings/issues/303"
+}
